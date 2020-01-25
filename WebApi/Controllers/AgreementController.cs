@@ -224,9 +224,6 @@ namespace WebApi.Controllers
                 //};
 
 
-                //// I need to delete file after me
-                //// System.IO.File.Delete(filename);
-                //return fileContentResult;
 
             }
             catch (Exception ex)
